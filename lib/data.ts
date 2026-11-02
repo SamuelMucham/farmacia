@@ -8,7 +8,7 @@ export type Product = {
 };
 
 // Número de WhatsApp de exemplo (DDI + DDD + número). Troque pelo número real da farmácia.
-export const WHATSAPP_NUMBER = "5541900000000";
+export const WHATSAPP_NUMBER = "5541999999999";
 
 // Dados do Pix da farmácia. Troque pela chave real (CPF/CNPJ, e-mail, telefone ou chave aleatória).
 export const PIX_KEY = "pix@farmavida.com.br";

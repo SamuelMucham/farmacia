@@ -500,7 +500,7 @@ export default function Shop() {
                       ` (${distanceKm.toLocaleString("pt-BR")} km)`}
                   </span>
                   <span>
-                    {distanceKm === null ? "Não calculado" : formatBRL(deliveryFee)}
+                    {distanceKm === null ? "a calcular" : formatBRL(deliveryFee)}
                   </span>
                 </div>
               )}
